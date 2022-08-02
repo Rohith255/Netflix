@@ -732,14 +732,14 @@
         text-align: center;
     }
     .section-003-heading h1{
-        font-size: 24px;
-        margin-left: 50px;
+        font-size: 22px;
     }
     .section-003-para{
-        width: 100%;
+        width: 90%;
         font-size: 20px;
         text-align: center;
         margin-top: 20px;
+        margin-left: 18px;
     }
     .section-001{
         width: 100%;
@@ -825,7 +825,8 @@
         margin-left: 28px;
     }
     .section-401-para{
-        width: 100%;
+        width: 90%;
+        margin-left: 15px;
         font-size: 1.2rem;
         text-align: center;
     }
